@@ -5,11 +5,11 @@
 
 ##メンバー
 
-★tomomasa
+*tomomasa
 
-★masatomo
+*masatomo
 
-★mori
+*mori
 
 ##ファイル構成
 
