@@ -6,7 +6,11 @@
 ##メンバー
 
 ★tomomasa
+
 ★masatomo
+
+★mori
+
 ##ファイル構成
 
 ##リリース方法
